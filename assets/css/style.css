@@ -36,3 +36,8 @@ p, span{
 .progress {
     height: 8px;
   }
+
+.navbar .nav-link {
+  color: white;
+}
+  
